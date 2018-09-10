@@ -14,7 +14,7 @@ magic ball.py - Magic 8 Ball. Type in a question, it will give an answer
 collatz.py - Input a number and it uses the Collatz Conjecture until the number reaches 1  
 -Practicing for loops, defining functions, and handling errors
 
-Pythagorean Triples Checker - Type in 3 sides of a triangle and it will return if it is a right triangle or not.  
+(not yet on github) Pythagorean Triples Checker - Type in 3 sides of a triangle and it will return if it is a right triangle or not.  
 -Practicing using different input values
 
 coin estimator.py - Coin Estimator By Weight - based on the weight of your coin collection, how many wrappers do you need and the total value  
