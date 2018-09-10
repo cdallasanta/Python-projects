@@ -1,4 +1,4 @@
-for n in reversed(range(99)):
+for n in reversed(range(100)):
     if n>1:
         next = n-1
         print(str(n) +" bottles of beer on the wall, "+str(n)+" bottles of beer")
