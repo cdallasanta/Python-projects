@@ -18,4 +18,4 @@ collatz.py - Input a number and it uses the Collatz Conjecture until the number 
 -Practicing using different input values
 
 coin estimator.py - Coin Estimator By Weight - based on the weight of your coin collection, how many wrappers do you need and the total value  
--This is very much a work in progress. It started as a ton of dictionaries before trying to convert them into a cleaner pandas dataframe. Then I learned that I'm not as familiar with dataframes as I though.
+-This is very much a work in progress. It started as a ton of dictionaries before trying to convert them into a cleaner pandas dataframe. Then I learned that I'm not as familiar with dataframes as I thought.
