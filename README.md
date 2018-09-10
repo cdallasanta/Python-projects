@@ -5,8 +5,8 @@ This is a series of projects found on this [link](https://docs.google.com/docume
 **Here are the porjects in this repository so far:**
 
 bottles.py - 99 Bottles of Beer on the Wall Lyrics  
-  Learning ifs and print
-  
+⋅⋅⋅Learning ifs and print
+
 magic ball.py - Magic 8 Ball. Type in a question, it will give an answer  
   Answers are in a list that are easy to add to  
   Will add a GUI once I learn about those modules
